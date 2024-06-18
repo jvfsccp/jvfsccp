@@ -6,7 +6,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvfsccp&layout=compact)
 
 ## Hard Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,python,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,python)](https://skillicons.dev)
 
 </div><br>
 
