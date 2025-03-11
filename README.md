@@ -15,10 +15,11 @@ Apaixonado por tecnologia e desenvolver sites.
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,idea)](https://skillicons.dev)
 </div><br>
 
+<div>
+  <h2>Entre em contato!</h2>
+  
+  [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/joao-victor-fernandes-castro/) [![My Skills](https://skillicons.dev/icons?i=gmail)](joaovictorfernandescastro@gmail.com)
+  
+  
+</div>
 
-
-## Linkedin 
-
-<a href="https://www.linkedin.com/in/joao-victor-fernandes-castro/">[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)</a>
-## Email 
-<a href="mailto: joaovictorfernandescastro@gmail.com">[![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev)</a>
