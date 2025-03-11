@@ -5,18 +5,17 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvfsccp&layout=compact)
 
-## Hard Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,python)](https://skillicons.dev)
+## Techs
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,python,cs,dotnet)](https://skillicons.dev)
 
+## IDE's
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,idea)](https://skillicons.dev)
 </div><br>
 
 Apaixonado pela tecnologia, aspirante a desenvolvedor web e desenvolvedor frontend.
 
 ## Linkedin 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joão-victor-fernandes-castro-b208192a4/)
-
+<a href="https://www.linkedin.com/in/joao-victor-fernandes-castro/">[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)</a>
 ## Email 
-<a href="mailto: joaovictorfernandescastro@gmail.com">
-<img alt ="meuemail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+<a href="mailto: joaovictorfernandescastro@gmail.com">[![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev)</a>
