@@ -1,7 +1,10 @@
 
 ### Olá! Me chamo João Victor! ☝🏻
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_jaoovf)
+Sou Desenvolvedor Frontend.
+<br>
+Apaixonado por tecnologia e desenvolver sites. 
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvfsccp&layout=compact)
 
@@ -12,7 +15,7 @@
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,idea)](https://skillicons.dev)
 </div><br>
 
-Apaixonado pela tecnologia, aspirante a desenvolvedor web e desenvolvedor frontend.
+
 
 ## Linkedin 
 
