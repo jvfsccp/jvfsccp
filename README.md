@@ -18,7 +18,7 @@ Apaixonado por tecnologia e desenvolver sites.
 <div>
   <h2>Entre em contato!</h2>
   
-  [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/joao-victor-fernandes-castro/) [![My Skills](https://skillicons.dev/icons?i=gmail)](joaovictorfernandescastro@gmail.com)
+  [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/joao-victor-fernandes-castro/) [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:joaovictorfernandescastro@gmail.com)
   
   
 </div>
