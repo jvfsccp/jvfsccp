@@ -9,7 +9,7 @@ Apaixonado por tecnologia e desenvolver sites.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvfsccp&layout=compact)
 
 ## Techs
-![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,styledcomponents,js,ts,react,nextjs,python,cs,dotnet,java,figma)
+![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,styledcomponents,js,ts,react,nextjs,nodejs,express,mongodb,postgresql,python,cs,dotnet,java,figma,docker)
 
 ## IDE's
 ![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,idea)
