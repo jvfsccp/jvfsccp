@@ -1,7 +1,7 @@
 
 ### Olá! Me chamo João Victor! ☝🏻
 
-Sou Desenvolvedor Frontend.
+Sou Desenvolvedor FullStack.
 <br>
 Apaixonado por tecnologia e desenvolver sites. 
 
