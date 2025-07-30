@@ -6,7 +6,9 @@ Sou Desenvolvedor FullStack.
 Apaixonado por tecnologia e desenvolver sites. 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvfsccp&layout=compact)
+![jvfsccp's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jvfsccp&theme=bear&show_icons=true&hide_border=false&layout=compact)
+<br />
+![jvfsccp's Stats](https://github-readme-stats.vercel.app/api?username=jvfsccp&theme=bear&show_icons=true&hide_border=false&count_private=true) 
 
 ## Techs
 ![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,styledcomponents,js,ts,react,nextjs,nodejs,express,mongodb,postgresql,python,java,figma,docker)
