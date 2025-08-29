@@ -42,8 +42,9 @@
 ## ⭐ GitHub Stats
 
 <a href="https://github.com/jvfsccp">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jvfsccp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvfsccp&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jvfsccp&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvfsccp&layout=compact&langs_count=6&theme=react"/>
+</a>
 
 ## Tecnologias e linguagens 💻
 
@@ -76,10 +77,10 @@
 
 <div align="center">
   
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jvfsccp&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jvfsccp&bg_color=282c34&color=ffffff&line=61dafb&point=61dafb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jvfsccp&theme=transparent&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&card_height=170)](https://git.io/streak-stats) <br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=jvfsccp&theme=react&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&card_height=170)](https://git.io/streak-stats) <br/>
 
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0303b5,100:0404e2"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6eb8f5,100:2196f3"/>
