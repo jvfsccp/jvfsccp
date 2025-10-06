@@ -50,9 +50,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,java,python)](https://skillicons.dev)
 
-### 🚀 Frameworks e bibliotecas
+### 🚀 Frameworks, bibliotecas & database
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,vite,postgres,mongodb,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,nest,prisma,vite,postgres,firebase,redis,mongodb,docker)](https://skillicons.dev)
 
 ### 🛠️ Ferramentas de desenvolvimento
 
