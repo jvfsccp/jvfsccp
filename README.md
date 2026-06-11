@@ -1,51 +1,77 @@
-# 👨‍💻 Olá, eu sou o João Victor!
+<h3 align="left">< > hello, I'm João Victor. < /> </h3>
 
-<p align="left">
-  Desenvolvedor web fullstack com foco em <strong>React</strong> e <strong>Node.js</strong>, criando soluções modernas, funcionais e com propósito. <br>
-  Tenho focado meus estudos em <strong>React</strong> e <strong>Node.js</strong>, com o objetivo de transformar cada aprendizado em projetos reais e escaláveis.
-</p>
+Full-stack software developer focused on building scalable, maintainable, and user-centered web applications. I work across the entire development lifecycle, from designing responsive interfaces to building APIs and managing data, with a strong focus on TypeScript, React, and Node.js.
 
----
+###
 
-## Tecnologias e linguagens 💻
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,java,python)](https://skillicons.dev)
-
-### 🚀 Frameworks, bibliotecas & database
-
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,nest,prisma,vite,postgres,firebase,redis,mongodb,docker)](https://skillicons.dev)
-
-### 🛠️ Ferramentas de desenvolvimento
-
-[![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode,postman)](https://skillicons.dev)
-
-<p align="left">
-  Vamos nos conectar? Me envie um e-mail, me siga no LinkedIn ou me no instagram! 
-</p>
-
-<p align="left">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=joaovictorfernandescastro@gmail.com" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/joao-victor-fernandes-castro/" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
-  <a href="https://www.instagram.com/_jaoovf/" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
-</p>
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=jvfsccp.jvfsccp&left_color=darkviolet&right_color=orchid" width="80" />
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="TypeScript" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="JavaScript" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=java" height="30" alt="Java" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=py" height="30" alt="Python" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=php" height="30" alt="PHP" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=html" height="30" alt="HTML" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=css" height="30" alt="CSS" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=react" height="30" alt="React" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="Next.js" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=vite" height="30" alt="Vite" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="Node.js" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=express" height="30" alt="Express" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="30" alt="NestJS" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="30" alt="Laravel" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="30" alt="FastAPI" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="30" alt="Prisma" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="PostgreSQL" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="MySQL" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="MongoDB" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=redis" height="30" alt="Redis" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="Firebase" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="Docker" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=git" height="30" alt="Git" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="GitHub" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=postman" height="30" alt="Postman" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="Figma" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="Visual Studio Code" />
 </div>
 
-<div align="center">
-  
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jvfsccp&bg_color=282c34&color=ffffff&line=61dafb&point=61dafb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+###
 
+<div align="left">
+  <a href="mailto:joaovictorfernandescastro@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/joao-victor-fernandes-castro/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/_jaoovf/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram" />
+  </a>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6eb8f5,100:2196f3"/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jvfsccp/jvfsccp/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jvfsccp/jvfsccp/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jvfsccp/jvfsccp/output/pacman-contribution-graph.svg">
-</picture>
+###
